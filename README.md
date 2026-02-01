@@ -1,4 +1,4 @@
-# ML-Based Analysis of Student Social Media Addiction with Web Deployment (Flask · Docker · Hugging Face)
+## ML-Based Analysis of Student Social Media Addiction with Web Deployment (Flask · Docker · Hugging Face)
 
 Live Demo:
 👉 https://huggingface.co/spaces/Vsagar1996/Student_Social_Media-Impact_Analyzer
