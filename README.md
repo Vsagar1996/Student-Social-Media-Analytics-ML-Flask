@@ -45,11 +45,13 @@ Build machine learning models for:
  - Academic Performance Impact - Logistic Regression
  - High Addiction Risk - Random Forest Classifier
 
-### Tech Stack:
+### Tools & Technologies Used:
 
  - Programming Language: Python
 
  - Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
+
+ - Analysis workflow: Jupyter Notebook
 
  - Web Framework: Flask
 
