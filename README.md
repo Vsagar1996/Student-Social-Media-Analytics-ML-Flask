@@ -72,3 +72,17 @@ Build machine learning models for:
  - Separate analysis pages for each prediction type
 
  - Deployed and publicly accessible live demo
+
+### Future Work:
+
+1. Use Standard Psychological Scales
+
+   - Future studies can include validated psychological assessments such as PHQ-9 and GAD-7 to improve the reliability of mental health–related predictions.
+
+2. Track Social Media Usage Over Time
+
+   - Collecting daily or weekly usage data would help identify trends and early warning signs of increasing addiction using time-series analysis.
+
+3. Improve Model Explainability and Performance
+
+   - Further tuning of models and the use of explainability techniques can improve prediction accuracy and transparency.
