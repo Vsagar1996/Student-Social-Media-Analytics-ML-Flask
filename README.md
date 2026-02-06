@@ -17,6 +17,12 @@ This project presents an end-to-end machine learning solution that analyzes stud
 
 The trained machine learning models are deployed as an interactive Flask web application, containerized using Docker, and hosted on Hugging Face Spaces, allowing real-time predictions through a user-friendly interface.
 
+### Project Files:
+
+- [Students Social Media Addiction.ipynb](Students%20Social%20Media%20Addiction.ipynb) – Jupyter Notebook containing the complete analysis
+
+- [Students Social Media Addiction.csv](Students%20Social%20Media%20Addiction.csv) – Dataset used for the analysis
+
 ### Objectives:
 
 Perform exploratory data analysis (EDA) on student social media usage data
