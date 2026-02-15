@@ -1,4 +1,4 @@
-## Student Social Media Addiction & Its Impact - End To End ML Project With Web Deployment (Flask · Docker · Hugging Face)
+## Student Social Media Addiction Prediction – ML Web Application (Flask · Docker · Hugging Face)
 
 Live Demo:
 👉 https://huggingface.co/spaces/Vsagar1996/Student_Social_Media-Impact_Analyzer
